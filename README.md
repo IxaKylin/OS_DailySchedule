@@ -3,7 +3,7 @@
 ### lab完成程度
 
 lab name | url | Status |
---------|----------- | ------ | -IxaKylin
+--------|----------- | ------ | 
 [lab0-0](https://github.com/LearningOS/lab0-0-setup-env-run-os1-IxaKylin) | https://github.com/LearningOS/lab0-0-setup-env-run-os1-IxaKylin  |✔️
 [lab0-1](https://github.com/LearningOS/lab0-1-run-os2-IxaKylin) | https://github.com/LearningOS/lab0-1-run-os2-IxaKylin |✔️
 [rustlings](https://github.com/LearningOS/learn_rust_rustlings-IxaKylin) | https://github.com/LearningOS/learn_rust_rustlings-IxaKylin | ❌
