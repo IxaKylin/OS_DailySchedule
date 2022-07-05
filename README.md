@@ -23,3 +23,9 @@ lab0-1-run-os2 一直不能通过CI， 明明只是一个测试环境的lab。�
 后来更换 gitee源解决
 
 https://github.com/LearningOS/lab0-1-run-os2-IxaKylin/commit/0d998f4f01d16e43ced4caa999be13cfd4a34b07
+
+## 星期二 22.7.5
+
+昨天问题已经被修复
+
+https://github.com/LearningOS/rust-based-os-comp2022/pull/17
