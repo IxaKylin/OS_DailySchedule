@@ -6,7 +6,7 @@ lab name | url | Status |
 --------|----------- | ------ | 
 [lab0-0](https://github.com/LearningOS/lab0-0-setup-env-run-os1-IxaKylin) | https://github.com/LearningOS/lab0-0-setup-env-run-os1-IxaKylin  |✔️
 [lab0-1](https://github.com/LearningOS/lab0-1-run-os2-IxaKylin) | https://github.com/LearningOS/lab0-1-run-os2-IxaKylin |✔️
-[rustlings](https://github.com/LearningOS/learn_rust_rustlings-IxaKylin) | https://github.com/LearningOS/learn_rust_rustlings-IxaKylin | (13/84) ❌
+[rustlings](https://github.com/LearningOS/learn_rust_rustlings-IxaKylin) | https://github.com/LearningOS/learn_rust_rustlings-IxaKylin | (84/84) ✔️
 
 
 
@@ -40,4 +40,9 @@ https://blog.csdn.net/qq_28687433/article/details/113955315
 intro2:
 
 println! {} 要输入参数 
+
+
+## 星期三 22.7.13
+
+昨天完成了rustlings 所有练习， 但是对error 还是不熟悉需要再温习一下
 
